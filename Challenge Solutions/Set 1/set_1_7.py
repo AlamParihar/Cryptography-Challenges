@@ -27,6 +27,8 @@ def ascii_decrypt_AES_ECB(_string, key):
 #key_=b"YELLOW SUBMARINE"
 #print(encrypt_AES_ECB(bytes.fromhex(_2.ascii2hex(string_)), key_))
 
+print(decrypt_AES_ECB(b64.b64decode("rW4q3swEuIOEy8RTIp/DCMdNPtdYopSRXKSLYnX9NQe8z+LMsZ6Mx/x8pwGwofdZ"), b64.b64decode("6v3TyEgjUcQRnWuIhjdTBA==")))
+
 
 
 

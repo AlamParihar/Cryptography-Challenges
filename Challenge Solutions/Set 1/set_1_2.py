@@ -35,7 +35,7 @@ def hex2bin(_hex):
 
 def bin_xor(_1, _2):
     out_xor = ""
-    for i in range(0, 4):
+    for i in range(0, len(_1)):
         out_xor += str(int(_1[i]) ^ int(_2[i]))
     return out_xor
 
