@@ -4,7 +4,7 @@ import random
 
 msg="message"
 
-class MAC:
+class MAC():
     def __init__(self, key=b""):
         self.key=key
 

@@ -30,23 +30,31 @@ Set 3: Block & Stream Crypto
 	set_3_2.py - Challenge 18: Implement CTR, the stream cipher mode
 	Skipped	   - Challenge 19: Break fixed-nonce CTR mode using substitutions
 	set_3_4.py - Challenge 20: Break fixed-nonce CTR statistically
-	Unsolved   - Challenge 21
-	Unsolved   - Challenge 22
-	Unsolved   - Challenge 23
-	Unsolved   - Challenge 24
+	Unsolved   - Challenge 21:
+	Unsolved   - Challenge 22:
+	Unsolved   - Challenge 23:
+	Unsolved   - Challenge 24:
 
 Set 4: Stream Crypto and Randomness
 	set_4_1.py - Challenge 25: Break "random access read/write" AES CTR
 	set_4_2.py - Challenge 26: CTR bitflipping
 	set_4_3.py - Challenge 27: Recover the key from CBC with IV=Key
 	set_4_4.py - Challenge 28: Implement a SHA-1 keyed MAC
-	Unsolved   - Challenge 29
+	set_4_5.py - Challenge 29: Break a SHA-1 keyed MAC using length extension
 	Unsolved   - Challenge 30
 	Unsolved   - Challenge 31
 	Unsolved   - Challenge 32
 
 Set 5:  Diffie-Hellman
-	UNSOLVED
+	Set_5_1.py - Challenge 33: Implement Diffie-Hellman
+	Set_5_2.py - Challenge 34: Implement a MITM key-fixing attack on Diffie-Hellman with parameter injection
+	Unsolved   - Challenge 35:
+	Unsolved   - Challenge 36:
+	Unsolved   - Challenge 37:
+	Unsolved   - Challenge 38:
+	Unsolved   - Challenge 39:
+	Unsolved   - Challenge 40:
+
 
 Set 6:  RSA and DSA 
 	UNSOLVED 
